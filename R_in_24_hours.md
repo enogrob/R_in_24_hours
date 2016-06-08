@@ -6,6 +6,7 @@ Solution Integrator Experienced - Certified by Ericsson
 # R in 24 hours
 
 ![R_in_24_hours_logo](images/R_in_24_hours.png)
+[Homepage](http://www.informit.com/store/r-in-24-hours-sams-teach-yourself-9780672338489)
 
 ## Table of Contents
 
