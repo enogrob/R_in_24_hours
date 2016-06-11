@@ -5,18 +5,13 @@ Solution Integrator Experienced - Certified by Ericsson
 
 # R in 24 hours
 
-![R_in_24_hours_logo](images/R_in_24_hours.png)
-[Homepage](http://www.informit.com/store/r-in-24-hours-sams-teach-yourself-9780672338489)
+![ebook cover](images/ebook_cover.png)
 
 ## Table of Contents
 
 ```
-R in 24 Hours
-
-Table of Contents
-
-[ ] Preface     xii
-[ ] HOUR 1: The R Community    
+[x] Preface     xii
+[x] HOUR 1: The R Community    
 [ ] HOUR 2: The R Environment     
 [ ] HOUR 3: Single-Mode Data Structures    
 [ ] HOUR 4: Multi-Mode Data Structures     
