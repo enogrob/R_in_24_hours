@@ -12,7 +12,7 @@ Solution Integrator Experienced - Certified by Ericsson
 ```
 [x] Preface     xii
 [x] HOUR 1: The R Community    
-[ ] HOUR 2: The R Environment     
+[x] HOUR 2: The R Environment     
 [ ] HOUR 3: Single-Mode Data Structures    
 [ ] HOUR 4: Multi-Mode Data Structures     
 [ ] HOUR 5: Dates, Times, and Factors    
