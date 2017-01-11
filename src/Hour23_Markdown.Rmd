@@ -4,12 +4,12 @@ author: "Aimee Gott"
 output: html_document
 ---
 
-The following report contains an analysis of the data from 2015. 
+The following report contains an analysis of the data from 2015.
 
 ## Analysis
 A simple linear model was fitted to the data to determine the main factors that contribute to a change in the dependent variable. We can see below some simple summaries of the data.
 
-```{r, collapse = TRUE}
+```{r, echo = FASE}
 library(mangoTraining)
 summary(pkData$Conc)
 ```
